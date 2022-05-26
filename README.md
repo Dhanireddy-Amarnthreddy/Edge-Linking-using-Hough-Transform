@@ -25,7 +25,7 @@ End the program.
 
 
 ## Program:
-
+```python
 # Read image and convert it to grayscale image
 import cv2
 import matplotlib.pyplot as plt
@@ -63,7 +63,7 @@ for line in lines:
 plt.title("Hough Transform")
 plt.imshow(image)
 plt.show()
-
+```
 ## Output
 
 ### Input image and grayscale image
