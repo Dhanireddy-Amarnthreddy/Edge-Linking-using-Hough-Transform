@@ -26,6 +26,8 @@ End the program.
 
 ## Program:
 ```python
+developed by :D.Amarnath reddy
+reg no: 212221240012
 # Read image and convert it to grayscale image
 import cv2
 import matplotlib.pyplot as plt
